@@ -7,8 +7,30 @@
     <script type="text/babel">
     let a=12;
     let b=5;
-
     alert(a+b);
+    let arr = [12,35,200,3456];
+    let result = arr.reduce(function(temp,item,index){
+        if(index !== arr.length-1){
+            return temp+item
+        }else{
+            return (temp+item)/arr.length;
+        }
+        }
+    );
+    alert(result);
+
+    let result1 = arr.filter( item =>item%3 == 0);
+      alert(result1);
+    let result2 = arr.forEach(item => (alert(item)));
+    arr.forEach((item,index) => (alert(index+':'+item)));
+    let str = 'http://www.baidu.com';
+    if(str.startsWith('http://')){
+        alert('普通网址');
+    }
+    let str1 = '百度';
+    let str2 = 'content';
+    let str3 = `http://www.${str1}.baidi.com`;
+    console.log(str3)
     </script>
   </head>
   <body>
