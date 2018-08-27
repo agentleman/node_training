@@ -3,17 +3,7 @@
   <component name="ChangeListManager">
     <list id="2b78f58a-1277-425c-b7eb-21b382a5d929" name="New changelist (2)" comment="" />
     <list id="e1bc9d54-ffa4-4cba-8c54-9d0e5316ef7e" name="New changelist" comment="ES6笔记" />
-    <list default="true" id="3da6a7b9-2e4b-4f8b-8ef6-5ca9bbe2de84" name="Default" comment="classusing">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/promise/Promise怎么用.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/promise/Promise怎么用2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/promise/Promise怎么用3.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/promise/Promise怎么用4.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/promise/data/arr.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/promise/data/json.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/promise/data/num.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/promise/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/promise/总结.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/promise/笔记.txt" />
+    <list default="true" id="3da6a7b9-2e4b-4f8b-8ef6-5ca9bbe2de84" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="66b96bec-b7b7-4187-bca5-dcb8056b19ae" name="New changelist (3)" comment="promise &#10;" />
@@ -33,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/ESMA6笔记.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="290">
+              <first_editor relative-caret-position="304">
                 <caret line="65" column="1" lean-forward="false" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
                 <folding />
               </first_editor>
@@ -101,7 +91,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1378" />
@@ -180,7 +170,7 @@
       <workItem from="1534815135713" duration="2988000" />
       <workItem from="1534900891529" duration="12068000" />
       <workItem from="1535075571508" duration="10029000" />
-      <workItem from="1535349708783" duration="58000" />
+      <workItem from="1535349708783" duration="435000" />
     </task>
     <task id="LOCAL-00001" summary="classusing">
       <created>1535174877973</created>
@@ -189,22 +179,29 @@
       <option name="project" value="LOCAL" />
       <updated>1535174877973</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="promise">
+      <created>1535350002116</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1535350002116</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25143000" />
+    <option name="totallyTimeSpent" value="25520000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15171899" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14798206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -226,7 +223,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="classusing" />
-    <option name="LAST_COMMIT_MESSAGE" value="classusing" />
+    <MESSAGE value="promise" />
+    <option name="LAST_COMMIT_MESSAGE" value="promise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -336,7 +334,7 @@
     <entry file="file://$PROJECT_DIR$/ESMA6笔记.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="290">
+          <first_editor relative-caret-position="304">
             <caret line="65" column="1" lean-forward="false" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
             <folding />
           </first_editor>
