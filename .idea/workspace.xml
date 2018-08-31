@@ -5,10 +5,21 @@
     <list id="66b96bec-b7b7-4187-bca5-dcb8056b19ae" name="New changelist (3)" comment="promise &#10;" />
     <list id="e1bc9d54-ffa4-4cba-8c54-9d0e5316ef7e" name="New changelist" comment="ES6笔记" />
     <list default="true" id="3da6a7b9-2e4b-4f8b-8ef6-5ca9bbe2de84" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/generator/1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/generator/15.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/generator/data/1.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/generator/data/2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/generator/data/3.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/generator/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/generator/runner.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ES6新特性/generator/笔记.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/震川帐号.txt" afterPath="" />
     </list>
     <list id="2ef95f95-1a0c-447f-8e16-5c7f6750835a" name="New changelist (4)" comment="" />
     <list id="b6aee790-8296-4514-ad7d-1e4819acff15" name="New changelist (5)" comment="generator for koa" />
+    <list id="ab79945c-3968-4611-b372-0fec608d7d14" name="New changelist (6)" comment="" />
+    <list id="187308f9-ec75-4362-859e-d3f6b78ba6a4" name="New changelist (7)" comment="del" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -104,17 +115,6 @@
               <item name="NODE_training" type="b2602c69:ProjectViewProjectNode" />
               <item name="NODE_training" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="NODE_training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NODE_training" type="462c0819:PsiDirectoryNode" />
-              <item name="ES6新特性" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NODE_training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NODE_training" type="462c0819:PsiDirectoryNode" />
-              <item name="ES6新特性" type="462c0819:PsiDirectoryNode" />
-              <item name="promise" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -154,6 +154,8 @@
       <changelist id="66b96bec-b7b7-4187-bca5-dcb8056b19ae" name="New changelist (3)" comment="promise &#10;" />
       <changelist id="2ef95f95-1a0c-447f-8e16-5c7f6750835a" name="New changelist (4)" comment="" />
       <changelist id="b6aee790-8296-4514-ad7d-1e4819acff15" name="New changelist (5)" comment="generator for koa" />
+      <changelist id="ab79945c-3968-4611-b372-0fec608d7d14" name="New changelist (6)" comment="" />
+      <changelist id="187308f9-ec75-4362-859e-d3f6b78ba6a4" name="New changelist (7)" comment="del" />
       <created>1534815129542</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -163,7 +165,7 @@
       <workItem from="1535075571508" duration="10029000" />
       <workItem from="1535349708783" duration="1026000" />
       <workItem from="1535592912830" duration="1413000" />
-      <workItem from="1535703881854" duration="4723000" />
+      <workItem from="1535703881854" duration="5392000" />
     </task>
     <task id="LOCAL-00001" summary="classusing">
       <created>1535174877973</created>
@@ -186,20 +188,27 @@
       <option name="project" value="LOCAL" />
       <updated>1535709512002</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="generator for koa">
+      <created>1535710484065</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1535710484065</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32247000" />
+    <option name="totallyTimeSpent" value="32916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17264573" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17264573" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -250,7 +259,8 @@
     <MESSAGE value="classusing" />
     <MESSAGE value="promise" />
     <MESSAGE value="generator" />
-    <option name="LAST_COMMIT_MESSAGE" value="generator" />
+    <MESSAGE value="generator for koa" />
+    <option name="LAST_COMMIT_MESSAGE" value="generator for koa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
