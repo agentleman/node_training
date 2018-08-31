@@ -61,9 +61,15 @@ let {a,b,c} = {a:1,b:2,c:3}
 #### 5、面向对象
 * class关键字 构造器和类分开了
 * 在class类里面直接加方法
-* 类的扩展extends,方法的扩展用super
+* 类的扩展extends,方法的扩展用super(parameter)
 #### 6、Promise
-*
-#### 7、generator
+* 用同步一样的方式书写异步代码
+* all 可以同时写多个异步请求
+* then  请求完成以后要执行的函数  （resolve  reject）
+* race  处理最先完成的请求
+#### 7、generator（适用于带有逻辑的异步处理）
+* 形式，在函数名前面加*号 function *show(){} 和yield配合使用
+* yeild 的理解及用法，使函数可以分步执行，也可以赋值
+
 #### 8、模块化
 
