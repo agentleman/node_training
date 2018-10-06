@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list id="5bae6176-8ac1-48b9-addb-597b0b793da3" name="New changelist (10)" comment="http" />
     <list id="2b78f58a-1277-425c-b7eb-21b382a5d929" name="New changelist (2)" comment="" />
     <list id="66b96bec-b7b7-4187-bca5-dcb8056b19ae" name="New changelist (3)" comment="promise &#10;" />
     <list id="2ef95f95-1a0c-447f-8e16-5c7f6750835a" name="New changelist (4)" comment="" />
     <list id="b6aee790-8296-4514-ad7d-1e4819acff15" name="New changelist (5)" comment="generator for koa" />
     <list id="ab79945c-3968-4611-b372-0fec608d7d14" name="New changelist (6)" comment="" />
     <list id="187308f9-ec75-4362-859e-d3f6b78ba6a4" name="New changelist (7)" comment="del" />
+    <list id="89c77848-373b-4fcc-bcc7-dc8129c60f36" name="New changelist (11)" comment="" />
     <list id="d68dc414-e223-4768-94da-7df4814818e1" name="New changelist (8)" comment="" />
     <list id="e1bc9d54-ffa4-4cba-8c54-9d0e5316ef7e" name="New changelist" comment="ES6笔记" />
     <list id="06675c30-a65b-428d-8f09-23ca02ccafb6" name="New changelist (9)" comment="" />
     <list default="true" id="3da6a7b9-2e4b-4f8b-8ef6-5ca9bbe2de84" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_http/1.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_http/1.server.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_http/event.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_http/global.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_http/sum.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_http/usrsum.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_http/2.server.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_http/index.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_http/index.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css_wordbreak.html" afterPath="$PROJECT_DIR$/css_wordbreak.html" />
+      <change beforePath="$PROJECT_DIR$/node_http/1.server.js" afterPath="$PROJECT_DIR$/node_http/1.server.js" />
     </list>
-    <list id="5bae6176-8ac1-48b9-addb-597b0b793da3" name="New changelist (10)" comment="http" />
-    <list id="89c77848-373b-4fcc-bcc7-dc8129c60f36" name="New changelist (11)" comment="" />
+    <list id="ca0977f0-61af-4272-a836-7ee9ba647fbf" name="New changelist (12)" comment="http__response" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -37,8 +35,38 @@
       <file leaf-file-name="1.server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_http/1.server.js">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_http/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node_http/2.server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_http/index.css">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="20">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -94,11 +122,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="event.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="event.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_http/event.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -109,9 +137,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="tsconfig.json" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -131,12 +160,15 @@
         <option value="$PROJECT_DIR$/webpack/index.html" />
         <option value="$PROJECT_DIR$/webpack/package.json" />
         <option value="$PROJECT_DIR$/css_wordbreak.html" />
-        <option value="$PROJECT_DIR$/node_http/1.server.js" />
         <option value="$PROJECT_DIR$/node_http/1.js" />
         <option value="$PROJECT_DIR$/node_http/global.js" />
         <option value="$PROJECT_DIR$/node_http/sum.js" />
         <option value="$PROJECT_DIR$/node_http/usrsum.js" />
         <option value="$PROJECT_DIR$/node_http/event.js" />
+        <option value="$PROJECT_DIR$/node_http/1.server.js" />
+        <option value="$PROJECT_DIR$/node_http/index.css" />
+        <option value="$PROJECT_DIR$/node_http/index.html" />
+        <option value="$PROJECT_DIR$/node_http/2.server.js" />
       </list>
     </option>
   </component>
@@ -196,6 +228,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -229,6 +262,7 @@
       <changelist id="06675c30-a65b-428d-8f09-23ca02ccafb6" name="New changelist (9)" comment="" />
       <changelist id="5bae6176-8ac1-48b9-addb-597b0b793da3" name="New changelist (10)" comment="http" />
       <changelist id="89c77848-373b-4fcc-bcc7-dc8129c60f36" name="New changelist (11)" comment="" />
+      <changelist id="ca0977f0-61af-4272-a836-7ee9ba647fbf" name="New changelist (12)" comment="http__response" />
       <created>1534815129542</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -242,7 +276,8 @@
       <workItem from="1536225732875" duration="2815000" />
       <workItem from="1536742033636" duration="1150000" />
       <workItem from="1536749423025" duration="283000" />
-      <workItem from="1538647030814" duration="5927000" />
+      <workItem from="1538647030814" duration="6152000" />
+      <workItem from="1538820297322" duration="5586000" />
     </task>
     <task id="LOCAL-00001" summary="classusing">
       <created>1535174877973</created>
@@ -300,11 +335,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536749549709</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="http">
+      <created>1538664490038</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1538664490038</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43167000" />
+    <option name="totallyTimeSpent" value="48978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -368,35 +410,14 @@
     <MESSAGE value="del" />
     <MESSAGE value="webpack" />
     <MESSAGE value="word_wrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="word_wrap" />
+    <MESSAGE value="http" />
+    <option name="LAST_COMMIT_MESSAGE" value="http" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css_wordbreak.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack/entry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webpack/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -673,15 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_http/1.server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,7 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,7 +754,39 @@
     <entry file="file://$PROJECT_DIR$/node_http/event.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_http/1.server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_http/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_http/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_http/2.server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
           <folding />
         </state>
       </provider>
