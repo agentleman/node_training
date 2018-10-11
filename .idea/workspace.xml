@@ -13,11 +13,7 @@
     <list id="e1bc9d54-ffa4-4cba-8c54-9d0e5316ef7e" name="New changelist" comment="ES6笔记" />
     <list id="06675c30-a65b-428d-8f09-23ca02ccafb6" name="New changelist (9)" comment="" />
     <list default="true" id="3da6a7b9-2e4b-4f8b-8ef6-5ca9bbe2de84" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_http/2.server.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_http/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_http/index.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/node_http/1.server.js" afterPath="$PROJECT_DIR$/node_http/1.server.js" />
     </list>
     <list id="ca0977f0-61af-4272-a836-7ee9ba647fbf" name="New changelist (12)" comment="http__response" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -56,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/node_http/2.server.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+              <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -277,7 +273,7 @@
       <workItem from="1536742033636" duration="1150000" />
       <workItem from="1536749423025" duration="283000" />
       <workItem from="1538647030814" duration="6152000" />
-      <workItem from="1538820297322" duration="5586000" />
+      <workItem from="1538820297322" duration="6712000" />
     </task>
     <task id="LOCAL-00001" summary="classusing">
       <created>1535174877973</created>
@@ -342,20 +338,28 @@
       <option name="project" value="LOCAL" />
       <updated>1538664490038</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="http__rresponse">
+      <created>1538830392259</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1538830392259</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48978000" />
+    <option name="totallyTimeSpent" value="50104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21823618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33447686" sideWeight="0.50298953" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33447686" sideWeight="0.49701047" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33447686" sideWeight="0.49701047" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4871355" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -411,7 +415,8 @@
     <MESSAGE value="webpack" />
     <MESSAGE value="word_wrap" />
     <MESSAGE value="http" />
-    <option name="LAST_COMMIT_MESSAGE" value="http" />
+    <MESSAGE value="http__rresponse" />
+    <option name="LAST_COMMIT_MESSAGE" value="http__rresponse" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -786,7 +791,7 @@
     <entry file="file://$PROJECT_DIR$/node_http/2.server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
           <folding />
         </state>
       </provider>
